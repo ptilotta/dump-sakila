@@ -19,7 +19,7 @@
 -- Position to start replication or point-in-time recovery from
 --
 
--- CHANGE MASTER TO MASTER_LOG_FILE='mysql-bin.000680', MASTER_LOG_POS=157;
+-- CHANGE MASTER TO MASTER_LOG_FILE='mysql-bin.000001', MASTER_LOG_POS=865;
 
 --
 -- Current Database: `sakila`
@@ -885,4 +885,4 @@ USE `sakila`;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2024-09-06 16:55:27
+-- Dump completed on 2024-09-07 11:37:59
